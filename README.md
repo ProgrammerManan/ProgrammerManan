@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi there! I'm Manan Maheshwari, a high school student and a passionate programmer. I enjoy exploring the world of technology and building innovative projects.<br><br>💻 Skilled in Python and Flask development<br>🚀 Love working on collaborative projects and creating cool applications<br>🌱 Always eager to learn new technologies and improve my skills
 
-## Portfolio - https://programmermanan.com
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/758161900856541224) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manan._.m) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@myselfmanan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23436753/programmermanan) 
 
