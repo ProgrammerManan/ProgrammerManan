@@ -1,4 +1,6 @@
 # 💫 About Me:
+### Current Project: Working on [CyberPatriot](https://www.uscyberpatriot.org/) Scripts, but due to competition guidelines the repo has to be private. 
+---
 Hi there! I'm Manan Maheshwari, a high school student and a passionate programmer. I enjoy exploring the world of technology and building innovative projects.<br><br>💻 Skilled in Python and Flask development<br>🚀 Love working on collaborative projects and creating cool applications<br>🌱 Always eager to learn new technologies and improve my skills
 
 ## 🌐 Socials:
